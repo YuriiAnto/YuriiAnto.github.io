@@ -1,4 +1,4 @@
-$(function(){
+/*$(function(){
 
     $("ul.dropdown li").hover(function(){
     
@@ -14,4 +14,4 @@ $(function(){
     
     $("ul.dropdown li ul li:has(ul)").find("a:first").append(" &raquo; ");
 
-});
+});*/
