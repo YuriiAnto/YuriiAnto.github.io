@@ -67,8 +67,7 @@ header .background_header .center_block_main .logo_and_menu .logo {
   width: 84px;
 }
 header .background_header .center_block_main .logo_and_menu .fas fa-bars {
-  padding-top: 105px;
-  border: solid 1px red;
+  padding-top: 15px;
 }
 header .background_header .center_block_main .logo_and_menu .menu {
   color: #e8e8e8;
@@ -77,7 +76,7 @@ header .background_header .center_block_main .logo_and_menu .menu {
   font-weight: 400;
   letter-spacing: -0.35px;
   line-height: 36px;
-  padding-top: 36px;
+  padding-top: 22px;
   text-transform: uppercase;
 }
 header .background_header .center_block_main .logo_and_menu ul {
@@ -653,11 +652,7 @@ iframe {
   max-width: 1600;
   margin-top: 50px;
 }
-.map {
-  background-image: url("../img/pre_footer/maps.png");
-  height: 650px;
-  width: 800px;
-}
+/*registration*/
 form {
   background-image: url("../img/pre_footer/registration.png");
   height: 650px;
